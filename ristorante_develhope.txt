@@ -1,1 +1,19 @@
+Magna e Programma restaurant
 
+Tipo di Menù: carne
+
+Menù:
+
+- Antipasti:
+
+- Primi piatti:
+
+- Secondi piatti:
+
+- Dolce:
+
+Bevande:
+
+- Acqua
+- Coca Cola
+- Pepsi
