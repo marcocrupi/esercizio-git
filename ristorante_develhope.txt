@@ -9,6 +9,7 @@ Menù:
     - Tartare di Manzo
     
 - Primi piatti:
+
   - Orecchiette broccoli e salsiccia
   - Paccheri ripieni con salsiccia e funghi
   - Pappardelle con speck e funghi porcini
