@@ -5,25 +5,15 @@ Tipo di Menù: carne
 Menù:
 
 - Antipasti:
-    
-    - Tartare di Manzo
-    
+
 - Primi piatti:
 
 - Secondi piatti:
+-tortelli di Patate
+-coniglio alla cacciatora
+-polenta e fagioli
 
-- Dolci:
-
-  - La cheesecake del programmatore
-  - TiramiSù con PUSH
-  - Delizia al <LI>mone
-  - Image,puoi
-
-- Contorni:
-
-  - Peperoni ammollicati
-  - Patate alla carrettiera
-  - Melanzane gratinate
+- Dolce:
 
 Bevande:
 
