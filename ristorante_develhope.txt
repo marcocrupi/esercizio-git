@@ -9,9 +9,10 @@ Menù:
 - Primi piatti:
 
 - Secondi piatti:
--tortelli di Patate
--coniglio alla cacciatora
--polenta e fagioli
+
+  - Tortelli di patate
+  - Coniglio alla cacciatora
+  - Polenta e fagioli
 
 - Dolce:
 
