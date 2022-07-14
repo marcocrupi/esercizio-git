@@ -5,12 +5,34 @@ Tipo di Menù: carne
 Menù:
 
 - Antipasti:
-
+    
+    - Tartare di Manzo
+    
 - Primi piatti:
+
+  - Orecchiette broccoli e salsiccia
+  - Paccheri ripieni con salsiccia e funghi
+  - Pappardelle con speck e funghi porcini
+  - Spaghetti alla Carbonara
 
 - Secondi piatti:
 
-- Dolce:
+ - Polenta con fagioli
+ - Bistecca di cervo con salsa ai mirtilli
+ - Pollo alle Mele 
+
+- Dolci:
+
+  - La cheesecake del programmatore
+  - TiramiSù con PUSH
+  - Delizia al <LI>mone
+  - Image,puoi
+
+- Contorni:
+
+  - Peperoni ammollicati
+  - Patate alla carrettiera
+  - Melanzane gratinate
 
 Bevande:
 
